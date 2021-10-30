@@ -33,7 +33,7 @@ gem 'turbolinks', '~> 5'
 # gem 'image_processing', '~> 1.2'
 
 gem 'carrierwave', '~> 2.0';
-gem 'fog', '~> 1.0';
+gem 'fog-aws'
 
 # image resizing
 gem "mini_magick"
